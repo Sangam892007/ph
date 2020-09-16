@@ -1,2 +1,2 @@
-# Project22
-this is 22nd Project
+# staticSquare
+A static square made using Matter.js physics engine
